@@ -1,0 +1,6 @@
+[submodule "web"]
+	path = web
+	url = https://github.com/TakoKat2/web.git
+[submodule "backend"]
+	path = backend
+	url = https://github.com/TakoKat2/backend.git
